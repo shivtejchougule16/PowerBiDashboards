@@ -15,7 +15,7 @@ Five end-to-end Power BI dashboard projects covering data cleaning, data modelin
 ---
 
 ## 1. AI Impact on Jobs
-![AI Impact on Jobs Dashboard](screenshots/ai_impact.png)
+![AI Impact on Jobs Dashboard](ai_impact.png)
 
 **Data:** `AIjobimpact.xlsx` | 120 records, 6 industries, 39 locations
 
@@ -32,7 +32,7 @@ Five end-to-end Power BI dashboard projects covering data cleaning, data modelin
 ---
 
 ## 2. Diwali Sales Dashboard
-![Diwali Sales Dashboard](screenshots/diwali.png)
+![Diwali Sales Dashboard](diwali.png)
 
 **Data:** `Diwali_Dashboard_2.csv` | 15,000 orders, 7,259 customers, 28 states (2025)
 
@@ -49,7 +49,7 @@ Five end-to-end Power BI dashboard projects covering data cleaning, data modelin
 ---
 
 ## 3. E-Commerce Sales Dashboard
-![E-Commerce Sales Dashboard](screenshots/ecommerce.png)
+![E-Commerce Sales Dashboard](ecommerce.png)
 
 **Data:** `ECommerce_dataset.xlsx` | 200 orders, 150 customers, 7 countries
 
@@ -66,7 +66,7 @@ Five end-to-end Power BI dashboard projects covering data cleaning, data modelin
 ---
 
 ## 4. Cafe Dashboard
-![Cafe Dashboard](screenshots/cafe.png)
+![Cafe Dashboard](cafe.png)
 
 **Data:** `Cafesales.xlsx` | 200 orders, Jan-Jun 2025
 
@@ -84,7 +84,7 @@ Five end-to-end Power BI dashboard projects covering data cleaning, data modelin
 ---
 
 ## 5. EV Bike Data Dashboard
-![EV Bike Data Dashboard](screenshots/ev_bike.png)
+![EV Bike Data Dashboard](ev_bike.png)
 
 **Data:** 5 brands, 5 models | 14K total units sold
 
